@@ -7,3 +7,6 @@ div>p{
 div+p{
     background-color: blueviolet;
 }
+p~h3{
+    background-color: aquamarine;
+}
